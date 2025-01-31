@@ -1,5 +1,6 @@
-# Cenet VPN Pro
 
+# Cenet VPN Pro
+# Currently added routes: United States, Hong Kong, Macau, Japan, France, Germany
 Cenet VPN Pro Free VPN
 Cenet VPN Pro app-armeabi-v7a-release： https://zip.cenet.top/5y7/app-armeabi-v7a-release.apk
 
